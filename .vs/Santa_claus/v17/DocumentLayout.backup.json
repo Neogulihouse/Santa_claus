@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|c:\\users\\user\\santa_claus\\unity-main-santa_claus\\santa_claus\\assets\\door\\doorinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|solutionrelative:assets\\door\\doorinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|c:\\users\\user\\santa_claus\\unity-main-santa_claus\\santa_claus\\assets\\player\\playermovementtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playermovementtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\assets\\player\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\assets\\player\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2A4642-934A-F32C-96BC-8D70C65695C7}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoorInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Door\\DoorInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Door\\DoorInteraction.cs",
+              "ToolTip": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Door\\DoorInteraction.cs",
+              "RelativeToolTip": "Assets\\Door\\DoorInteraction.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:36:08.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovementTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Player\\PlayerMovementTutorial.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerMovementTutorial.cs",
+              "ToolTip": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Player\\PlayerMovementTutorial.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerMovementTutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:07:26.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveCamera.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Player\\MoveCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\MoveCamera.cs",
+              "ToolTip": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Player\\MoveCamera.cs",
+              "RelativeToolTip": "Assets\\Player\\MoveCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:02:19.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Player\\PlayerCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerCam.cs",
+              "ToolTip": "C:\\Users\\User\\Santa_claus\\unity-main-santa_claus\\Santa_claus\\Assets\\Player\\PlayerCam.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerCam.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:23:41.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
